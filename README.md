@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy Celdo</h1>
-<h3 align="center">An avid learner with an interest in AI and Networks.</h3>
+<h3 align="center">An avid learner with an interest in AI and Networks</h3>
 
 <!-- - 🔭 I’m currently working on [Personal Leetcode repo](https://github.com/ACeldo1/Leetcode) -->
 
